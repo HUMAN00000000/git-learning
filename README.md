@@ -1,5 +1,5 @@
 # Git Learning
-这是我在 feature 分支上写的介绍。
+这是 feature 分支修改的内容。
 
 ## 学习目标
 掌握 Git 和 GitHub 的基本操作。

@@ -1,0 +1,10 @@
+# 忽略所有带有 secret 字样的文件
+secret.txt
+some_dummy_file
+# 忽略依赖和缓存目录
+node_modules/
+.venv/
+__pycache__/
+
+# 忽略环境变量文件（重点！）
+.env
